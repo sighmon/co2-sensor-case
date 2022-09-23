@@ -17,7 +17,8 @@ I first mocked up the layout in 2D using InDesign, then moved into [FreeCAD](htt
 
 ## TODO
 
-* Increase ESP32 compartment by ~0.5mm
-* Fix SCD-41 mounting position
-* Add USB-C charging slot
-* Add smiley face ontop cover
+- [ ] Increase ESP32 compartment by ~0.5mm
+- [ ] Fix SCD-41 mounting position
+- [ ] Add USB-C charging slot
+- [ ] Add smiley face ontop cover
+
