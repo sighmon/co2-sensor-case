@@ -2,6 +2,8 @@
 
 A 3D printable case for Sensirion SCD-41 CO2 sensor, QT Py ESP32, and Nokia battery.
 
+<img src="co2-sensor-case-v2-freecad.png" width="45%"><img src="co2-sensor-case-v2-preview.png" width="45%">
+
 <img src="co2-sensor-case-top.jpg" width="20%"><img src="co2-sensor-case-bottom.jpg" width="20%"><img src="co2-sensor-case-open.jpg" width="20%"><img src="co2-sensor-case-phone.jpg" width="20%">
 
 ## Design files
