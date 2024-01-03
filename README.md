@@ -4,11 +4,17 @@ A 3D printable case for Sensirion SCD-41 CO2 sensor, QT Py ESP32, and Nokia batt
 
 <img src="images/co2-sensor-case-v2-freecad.png" width="60%"><img src="images/co2-sensor-case-v2-preview.png" width="35%">
 
-<img src="images/co2-sensor-case-top.jpg" width="20%"><img src="images/co2-sensor-case-bottom.jpg" width="20%"><img src="images/co2-sensor-case-open.jpg" width="20%"><img src="images/co2-sensor-case-phone.jpg" width="20%">
+<img src="images/co2-sensor-case-top.jpg" width="20%"> <img src="images/co2-sensor-case-bottom.jpg" width="20%"> <img src="images/co2-sensor-case-open.jpg" width="20%"> <img src="images/co2-sensor-case-phone.jpg" width="20%">
 
 ## Design files
 
 I first mocked up the layout in 2D using InDesign, then moved into [FreeCAD](https://www.freecadweb.org) for the 3D design.
+
+### SCD30 sensor case
+
+I've also made an alternative case for the SCD30 CO2 sensor and Sparkfun Thing ESP32 - see `v3`.
+
+<img src="images/co2-sensor-case-v3-freecad.png" width="100%">
 
 ## Related projects
 
