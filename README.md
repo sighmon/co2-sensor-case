@@ -22,6 +22,10 @@ I used [Shapr3D](https://www.shapr3d.com) on the iPad to create a more freeform 
 
 <img src="shapr3d/shapr3d.jpg" width="45%"><img src="shapr3d/printed.jpg" width="45%">
 
+The entire family of Shapr3D cases:
+
+<img src="shapr3d/shapr3d-v4-5-6.jpg" width="100%">
+
 ## Related projects
 
 * [Arduino code for ESP32-C3 QT Py](https://github.com/sighmon/co2_sensor_scd4x_esp32_http_server/tree/add/4-adafruit-qt-py-esp32-c3)
